@@ -1,0 +1,20 @@
+http://phoenix.craigslist.org/search/syp
+
+Query=DDR3 , relevant
+http://phoenix.craigslist.org/search/syp?excats=&is_paid=&min_price=&max_price=&query=ddr3
+
+Query=DDR3, newest
+http://phoenix.craigslist.org/search/syp?excats=&sort=date&is_paid=&min_price=&max_price=&query=ddr3
+
+http://phoenix.craigslist.org/evl/sop/5118134899.html
+
+<div class="content">
+	<p class="row" data-pid=".....">
+		<a class="i" data-ids="....." href="/.../.../data-pid.html"></a>
+		<span class="pl">
+			<time datetime="2015-07-11 14:53" title="Sat 11 Jul 02:53:0 PM (-293 seconds ago)">Jul 11</time>
+			<a href="/nph/sop/5106651147.html" data-id="5106651147" class="hdrlnk">sony viao laptop parts</a>
+			<span class="l2">
+				<span class="price"> $60 </span>
+			</span>
+		

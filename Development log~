@@ -1,0 +1,65 @@
+timer in java
+https://docs.oracle.com/javase/tutorial/uiswing/misc/timer.html
+http://docs.oracle.com/javase/7/docs/api/java/util/Timer.html
+http://stackoverflow.com/questions/4044726/how-to-set-a-timer-in-java
+
+Extract XML data
+http://stackoverflow.com/questions/12837430/extracting-data-from-xml-using-java
+http://stackoverflow.com/questions/4076910/how-to-retrieve-element-value-of-xml-using-java
+http://stackoverflow.com/questions/5375028/extraction-of-html-tags-using-java
+
+Extract HTML data
+http://stackoverflow.com/questions/3152138/what-are-the-pros-and-cons-of-the-leading-java-html-parsers
+
+RSS Feed management (ROME)
+http://www.javaworld.com/article/2077795/java-se/manage-rss-feeds-with-the-rome-api.html?page=4
+
+-You could define RSS very simply by saying that it is an XML format that allows you to share information in a condensed manner
+
+-Although you can very well write your own RSS script directly (after all, it's just XML!), doing so forces you to choose, and stick to, one particular format. The issue is even trickier if you have to read and process external RSS feeds, which can come in a variety of formats. 
+
+-Rome is an open source Java API for reading and publishing RSS feeds in a relatively format-neutral way.
+
+-Reading and updating an external RSS feed
+Rome is not only good at writing RSS feeds: in fact, it also excels at reading and manipulating them. This is one of the things that makes Rome a good choice if you need to provide any aggregation features in your applications.
+
+you can modify the RSS entries or add new ones, 
+
+https://rometools.jira.com/wiki/display/ROME/Home
+http://www.rgagnon.com/javadetails/java-0557.html
+
+XML parser 
+list of XML parsers in java >> http://java-source.net/open-source/xml-parsers
+http://www.java-samples.com/showtutorial.php?tutorialid=152
+https://jaxb.java.net/guide/
+http://stackoverflow.com/questions/4661680/how-to-read-fetch-the-xml-file-from-an-url-using-java
+http://stackoverflow.com/questions/2310139/how-to-read-xml-response-from-a-url-in-java
+
+JaxB
+http://stackoverflow.com/questions/4465092/parsing-response-xml-with-jaxb
+http://blog.bdoughan.com/2010/08/creating-restful-web-service-part-55.html
+http://stackoverflow.com/questions/8186896/how-do-i-parse-this-xml-in-java-with-jaxb
+
+http://stackoverflow.com/questions/18930920/personal-project-rss-feed-xml-parser
+
+Iterator
+http://www.tutorialspoint.com/java/java_using_iterator.htm
+
+Lits<?>
+http://stackoverflow.com/questions/367626/how-do-i-fix-the-expression-of-type-list-needs-unchecked-conversion
+
+Array list of double type
+http://stackoverflow.com/questions/20039098/issue-creating-a-double-array-list
+http://stackoverflow.com/questions/383947/what-does-it-mean-to-program-to-an-interface
+http://docs.oracle.com/javase/tutorial/java/data/autoboxing.html
+
+Regular expression (Pattern and Matcher)
+http://www.vogella.com/tutorials/JavaRegularExpressions/article.html#introduction_languages
+http://tutorials.jenkov.com/java-regex/matcher.html
+
+Parsing numbers including comma and dot to strings
+http://stackoverflow.com/questions/11973383/how-to-parse-number-string-containing-commas-into-an-integer-in-java
+
+init: start an application when tomcat start
+http://crunchify.com/how-to-run-java-program-automatically-on-tomcat-startup/
+
